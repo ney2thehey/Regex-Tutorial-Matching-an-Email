@@ -50,11 +50,6 @@ Greedy means match longest possible string. Lazy means match shortest possible s
 In thie case we have greedy quantifiers such as + and {}, which means it will match as many times as possible with no limit. 
 
 
-
-### Back-references
-
-### Look-ahead and Look-behind
-
 ## Author
 
   * Github: [ney2thehey](https://github.com/ney2thehey)
